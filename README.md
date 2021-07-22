@@ -12,7 +12,4 @@ link da página:
 https://magisternetwork.netlify.app/
 
 ## Equipe
-Jessica Toyota
-Guilherme Lopes
-Mateus Oliveira
-Vinicius Martins
+Jessica Toyota, Guilherme Lopes, Mateus Oliveira e Vinicius Martins.
