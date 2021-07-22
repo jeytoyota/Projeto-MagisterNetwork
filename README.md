@@ -10,6 +10,8 @@ Com o magister, queremos valorizar a profissão como um todo, incentivando as in
 
 link da página:
 https://magisternetwork.netlify.app/
+link do swagger:
+https://magisternetwork.herokuapp.com/swagger-ui/
 
 ## Equipe
 Jessica Toyota, Guilherme Lopes, Mateus Oliveira e Vinicius Martins.
